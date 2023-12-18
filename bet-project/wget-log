@@ -1,0 +1,15 @@
+--2023-12-18 09:42:24--  https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages3.alphacoders.com%2F117%2F1174668.png
+Resolving www.google.com (www.google.com)... 142.250.183.196, 2404:6800:4009:82c::2004
+Connecting to www.google.com (www.google.com)|142.250.183.196|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.google.com/imghp [following]
+--2023-12-18 09:42:24--  https://www.google.com/imghp
+Reusing existing connection to www.google.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘imgres?imgurl=https:%2F%2Fimages3.alphacoders.com%2F117%2F1174668.png’
+
+                   imgres?imgurl=https     [<=>                                                                        ]       0  --.-KB/s               imgres?imgurl=https:%2F%2Fimages3.alph     [ <=>                                                                       ]  17.69K  --.-KB/s    in 0.02s   
+
+2023-12-18 09:42:24 (876 KB/s) - ‘imgres?imgurl=https:%2F%2Fimages3.alphacoders.com%2F117%2F1174668.png’ saved [18118]
+
